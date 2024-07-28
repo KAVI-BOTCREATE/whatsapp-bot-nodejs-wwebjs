@@ -28,7 +28,7 @@ pkg install git
 
 
     ```bash
-    git clone https://github.com/yourusername/whatsapp-bot-nodejs-wwebjs.git
+    git clone https://github.com/KAVI-BOTCREATE/whatsapp-bot-nodejs-wwebjs.git
     cd whatsapp-bot-nodejs-wwebjs
     ```
 
